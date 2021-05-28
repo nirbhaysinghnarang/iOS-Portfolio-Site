@@ -1,0 +1,58 @@
+body{
+	background-color: black;
+}
+h1,h4{
+	font-family: 'Bebas Neue', cursive !important;
+	color: #BA55D3;
+}
+
+*{
+font-family: 'Rubik', sans-serif;
+}
+
+.main_wrapper
+{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 10;
+	top:0;
+	left: 0;
+	background-color: black;
+	padding: 30px;
+}
+
+
+.card
+{
+align-items: left;
+}
+a{
+	text-decoration: none;
+	color: #BA55D3;
+}
+a:hover{
+	text-decoration: none!important;
+	color: #DA55D3;
+}
+
+.cg-1, .cg-2{
+	margin-top: 30px;
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	float: left;
+	height: 50px;
+	background-color: #BA55D3;
+	width: 100%;
+}
+
+h5{
+	color: white;
+	font-family: 'Bebas Neue', cursive !important;
+	margin-top: 12.5px;
+	margin-left: 10px;
+}
